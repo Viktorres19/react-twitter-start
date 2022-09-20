@@ -15,7 +15,7 @@ const AppBlock = styled.div`
 `;
 /*наслідування*/
 const StyledAppBlock = styled(AppBlock)`
-  background-color: pink;
+  background-color: transparent;
 `;
 
 const App = () => {
